@@ -114,7 +114,7 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
-    "inquirer": "^6.2.2",
+    "inquirer": "^8.2.7",
     "shelljs": "^0.8.3"
   }
 }
